@@ -1,5 +1,5 @@
 ### Seja bem vindo! 👋
 
-- 🌱 Programador
-- 💬 Vamos conversar sobre.: Tecnologia e Música
+- 🌱 Analista de Dados
+- 💬 Vamos conversar sobre.: Tecnologia, Análise de Daods e Música
 - 📫 Entre em contato comigo pelo e-mail: jonas.nunees@yahoo.com.br
