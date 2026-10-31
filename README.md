@@ -18,13 +18,13 @@
 
 ```js
 const jonas = {
-  nome:       "Jonas Nunes",
-  localização:"São Pedro da Aldeia, RJ 🇧🇷",
+  nome:       ["Jonas Nunes"],
+  localização:["São Pedro da Aldeia, RJ 🇧🇷"],
   formação:   ["Tecnólogo em ADS — Estácio (iniciado em 2020 e concluído em 2022)",
                "Engenharia de Software (início em 2026 — em andamento)"],
   foco:       ["Front-End"],
   música:     ["Violão 🎸", "Baixo elétrico 🎵", "Jesus ✝️"],
-  missão:     "Transformar código em experiências e acordes em adoração."
+  missão:     ["Transformar código em experiências e acordes em adoração."]
 };
 ```
 
